@@ -5,8 +5,8 @@ from .managers import CustomUserManager
 
 # Create your models here.
 
-#! Creating custom user model with AbstractUser
-# Reference link about AbstractUser:
+#! Creating custom user model with AbstractBaseUser
+# Reference link about AbstractBaseUser:
 # https://testdriven.io/blog/django-custom-user-model/
 # https://stackoverflow.com/questions/21514354/difference-between-abstractuser-and-abstractbaseuser-in-django
 
